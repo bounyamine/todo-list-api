@@ -45,6 +45,4 @@ PORT=5000
 MONGODB_URI=mongodb://localhost:27017/todo-list
 JWT_SECRET=votre_secret_jwt_super_securise
 NODE_ENV=development
-```# todo-list-api
-# todo-list-api
-# todo-list-api
+```
